@@ -1,0 +1,7 @@
+const maxnumber = 6;
+let stars = "";
+
+for (let i = 0; i < maxnumber; i++) {
+    stars += "*";
+    console.log(stars);
+}
